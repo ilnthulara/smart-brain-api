@@ -1,4 +1,4 @@
-You must add your own API key in the `src/App.js` file to connect to Clarifai.
+You must add your own API key in the `controllers/image.js` file to connect to Clarifai.
 
 You can grab Clarifai API key (https://www.clarifai.com/)
 
